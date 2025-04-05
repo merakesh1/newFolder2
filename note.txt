@@ -1,0 +1,19 @@
+git add <filename with extension>
+
+git add . 
+git add --all
+git add -A
+
+git commit -m <Enter your message here..>
+
+git status
+
+git status --short
+
+git log
+
+git log --oneline
+
+git help
+
+git help --all
