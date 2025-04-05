@@ -17,3 +17,13 @@ git log --oneline
 git help
 
 git help --all
+
+git branch "branchName"
+
+git branch
+
+git checkout "branchName"
+
+git checkout -b "branchName"
+
+git branch -d "branchName"
