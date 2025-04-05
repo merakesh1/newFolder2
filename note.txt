@@ -17,3 +17,6 @@ git log --oneline
 git help
 
 git help --all
+git branch -M main
+git remote add origin https://github.com/merakesh1/newFolder2.git
+git push -u origin main
